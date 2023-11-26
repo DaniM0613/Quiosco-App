@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import { formaterDinero } from '../helpers'
+import { formatearDinero } from '../helpers'
 import useQuiosco from '../hooks/useQuiosco'
 
 const  Producto = ({producto}) =>  {
@@ -18,7 +18,7 @@ const  Producto = ({producto}) =>  {
       <div className='p-5'>
         <h3 className='text-2xl font-bold'>{nombre}</h3>
         <p className='mt-5 font-black text-4xl text-purple-500'>
-          {formaterDinero(precio)}
+          {formatearDinero(precio)}
         </p>
         <button 
         type='button'

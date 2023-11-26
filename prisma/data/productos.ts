@@ -366,6 +366,13 @@ const productos = [
         imagen: "mollejas_02",
         categoriaId: 7
       }
+      ,
+      {
+        nombre: "Mollejas",
+        precio: 3.10,
+        imagen: "mollejas_03",
+        categoriaId: 7
+      }
 ]
 
 export {
