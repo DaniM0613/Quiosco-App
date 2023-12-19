@@ -22,7 +22,11 @@ const categorias = [
       {
         icono: "galletas",
         nombre: "Galletas"
-      }
+      },
+      {
+        icono: "mollejas",
+        nombre: "Mollejas"
+      }  
 ]
 
 export {

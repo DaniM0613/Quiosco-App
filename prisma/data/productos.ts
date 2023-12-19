@@ -352,6 +352,26 @@ const productos = [
         precio: 69.9,
         imagen: "pizzas_11",
         categoriaId: 3
+      },
+      {
+        nombre: "Mollejas",
+        precio: 2.94,
+        imagen: "mollejas_01",
+        categoriaId: 7
+      }
+      ,
+      {
+        nombre: "Mollejas",
+        precio: 3.10,
+        imagen: "mollejas_02",
+        categoriaId: 7
+      }
+      ,
+      {
+        nombre: "Mollejas",
+        precio: 3.10,
+        imagen: "mollejas_03",
+        categoriaId: 7
       }
 ]
 
